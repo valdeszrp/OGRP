@@ -1,10 +1,10 @@
 {
-    "name": "Athena",
+    "name": "On God Roleplay",
     "host": "0.0.0.0",
     "env": "prod",
     "port": 7788,
     "players": 512,
-    "password": null,
+    "password": "ongod1597",
     "token": null,
     "announce": false,
     "gamemode": "Roleplay",
