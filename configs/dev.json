@@ -4,7 +4,7 @@
     "env": "dev",
     "port": 7788,
     "players": 2,
-    "password": ongod1597,
+    "password": "ongod1597",
     "token": null,
     "announce": false,
     "gamemode": "Roleplay",
